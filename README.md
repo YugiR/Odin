@@ -10,8 +10,6 @@ This is a tool for finding and stealing important files on a website with variou
   
   $ cd Odin
   
-  $ pip install google
-  
   $ python3 Odin.py
 
 - Windows
